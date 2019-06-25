@@ -10,7 +10,7 @@ During the exam, you are allowed to keep only one other browser tab open to refe
 
 - [Logging/Monitoring - 5%](Logging&Monitoring.md)
 
-- [Application Lifecycle Management - 8%](Logging&Monitoring.md)
+- [Application Lifecycle Management - 8%](ApplicationLifecycleManagement.md)
 
   
 
