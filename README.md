@@ -10,6 +10,8 @@ During the exam, you are allowed to keep only one other browser tab open to refe
 
 - [Logging/Monitoring - 5%](Logging&Monitoring.md)
 
+- [Application Lifecycle Management - 8%](Logging&Monitoring.md)
+
   
 
 ### Can I PR? There is an error/an alternative way/an extra question/solution I can offer
@@ -18,4 +20,5 @@ Absolutely! Feel free to PR and edit/add questions and solutions, but please sti
 
 ### References
 
-- [here](https://github.com/twajr/ckad-prep-notes) from dgkanatsios
+- [here](https://github.com/dgkanatsios/CKAD-exercises) from dgkanatsios
+
