@@ -1,4 +1,3 @@
-![](https://gaforgithub.azurewebsites.net/api?repo=CKAD-exercises/core_concepts&empty)
 # Scheduling (5%)
 
 kubernetes.io > Documentation > Reference > kubectl CLI > [kubectl Cheat Sheet](https://kubernetes.io/docs/reference/kubectl/cheatsheet/)
