@@ -12,6 +12,8 @@ During the exam, you are allowed to keep only one other browser tab open to refe
 
 - [Application Lifecycle Management - 8%](ApplicationLifecycleManagement.md)
 
+- [Cluster - 11%](Cluster.md)
+
   
 
 ### Can I PR? There is an error/an alternative way/an extra question/solution I can offer
