@@ -7,16 +7,16 @@ During the exam, you are allowed to keep only one other browser tab open to refe
 ## Contents
 
 - [Scheduling - 5%](Scheduling.md)
-
 - [Logging/Monitoring - 5%](Logging&Monitoring.md)
-
 - [Application Lifecycle Management - 8%](ApplicationLifecycleManagement.md)
-
 - [Cluster - 11%](Cluster.md)
-
 - [Storage - 7%](Storage.md)
 
-  
+
+
+I have provided an example folder of sample YAML files for various different exercises so that you can use these as templates.
+
+
 
 ### Can I PR? There is an error/an alternative way/an extra question/solution I can offer
 
