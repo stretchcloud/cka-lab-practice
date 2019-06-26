@@ -14,6 +14,8 @@ During the exam, you are allowed to keep only one other browser tab open to refe
 
 - [Cluster - 11%](Cluster.md)
 
+- [Storage - 7%](Storage.md)
+
   
 
 ### Can I PR? There is an error/an alternative way/an extra question/solution I can offer
