@@ -102,10 +102,13 @@ $ ETCDCTL_API=3 etcdctl snapshot status snapshot.db
 $ service kube-apiserver stop
 $ ETCDCTL_API=3 etcdctl \
 snapshot restore snapshot.db \
+--name=master \
+--cert=/etc/kubernetes/pki/etcd/server.crt \
+--key=/etc/kubernetes/pki/etcd/server.key \
 --data-dir /var/lib/etcd-from-backup \
---initial-cluster master-1=https://192.168.1.1:2380 \
+--initial-cluster master-1=https://127.0.0.1:2380 \
 --initial-cluster-token etcd-cluster-1 \
---initial-advertise-peer-urls https://${INTERNAL_IP}:2380
+--initial-advertise-peer-urls https://127.0.0.1:2380
 
 $ cat /etc/system/system.d/etcd.service
 
