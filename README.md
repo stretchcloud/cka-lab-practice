@@ -16,6 +16,7 @@ During the exam, you are allowed to keep only one other browser tab open to refe
 - [Application Lifecycle Management - 8%](ApplicationLifecycleManagement.md)
 - [Cluster - 11%](Cluster.md)
 - [Storage - 7%](Storage.md)
+- [Networking - 11%](Networking.md)
 
 
 
