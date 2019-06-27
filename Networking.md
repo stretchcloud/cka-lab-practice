@@ -67,7 +67,11 @@ $ docker inspect <network ns>
 
 ```
 
-![pod communication]([https://github.com/stretchcloud/cka-lab-practice/blob/master/pod%20networking.jpg](https://github.com/stretchcloud/cka-lab-practice/blob/master/pod networking.jpg))
+
+
+![POD Communication](https://github.com/stretchcloud/cka-lab-practice/blob/master/pod-networking.jpg)
+
+
 
 </p>
 </details>
