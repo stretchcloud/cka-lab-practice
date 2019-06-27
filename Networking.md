@@ -67,7 +67,7 @@ $ docker inspect <network ns>
 
 ```
 
-![pod communication](http://www.kubernet.io/images/networking_cka_1.jpg)
+![pod communication]([https://github.com/stretchcloud/cka-lab-practice/blob/master/pod%20networking.jpg](https://github.com/stretchcloud/cka-lab-practice/blob/master/pod networking.jpg))
 
 </p>
 </details>
@@ -406,7 +406,7 @@ $ kubectl expose deployment -n ingress-space ingress-controller --type=NodePort 
 
 
 
-![image-20190627210347263](https://github.com/stretchcloud/cka-lab-practice/blob/master/Ingress-Flow.png)
+![Ingress Flow](https://github.com/stretchcloud/cka-lab-practice/blob/master/Ingress-Flow.png)
 
 
 
