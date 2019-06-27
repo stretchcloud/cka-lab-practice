@@ -406,7 +406,7 @@ $ kubectl expose deployment -n ingress-space ingress-controller --type=NodePort 
 
 
 
-![image-20190627210347263](/Users/prassark/Library/Application Support/typora-user-images/image-20190627210347263.png)
+![image-20190627210347263](https://github.com/stretchcloud/cka-lab-practice/blob/master/Ingress-Flow.png)
 
 
 
