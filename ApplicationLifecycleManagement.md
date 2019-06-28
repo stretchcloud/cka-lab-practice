@@ -145,7 +145,7 @@ spec:
      - containerPort: 8080
    envFrom: 
      - configMapRef:
-       name: app-config
+         name: app-config
 
 Single Environment Variable from ConfigMap
 
@@ -206,7 +206,7 @@ spec:
    ports: 
      - containerPort: 8080
    envFrom: 
-     - secretRef:
+   - secretRef:
        name: app-secret
 
 
