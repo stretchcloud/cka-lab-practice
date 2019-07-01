@@ -17,6 +17,7 @@ During the exam, you are allowed to keep only one other browser tab open to refe
 - [Cluster - 11%](Cluster.md)
 - [Storage - 7%](Storage.md)
 - [Networking - 11%](Networking.md)
+- [Installation, Configuration & Validation - 12%](Installation.md)
 
 
 
