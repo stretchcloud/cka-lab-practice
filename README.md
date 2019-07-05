@@ -18,6 +18,7 @@ During the exam, you are allowed to keep only one other browser tab open to refe
 - [Storage - 7%](Storage.md)
 - [Networking - 11%](Networking.md)
 - [Installation, Configuration & Validation - 12%](Installation.md)
+- [Troubleshooting - 10%](Troubleshooting.md)
 
 
 
