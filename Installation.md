@@ -341,7 +341,7 @@ $ kubectl describe pods
 </p>
 </details>
 
-### Analyse end-to-end tests results
+### Analysis end-to-end tests results
 
 <details><summary>show</summary>
 <p>
