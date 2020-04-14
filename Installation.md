@@ -324,7 +324,7 @@ Verify that you can run these checked items:
 $ kubectl run nginx --image=nginx
 $ kubectl get deployments
 $ kubectl get pods
-$ kubctl get pods -n kube-system
+$ kubectl get pods -n kube-system
 $ kubectl port-forward nginx 8081:80
 $ curl --head http://127.0.0.1:8081
 $ kubectl logs nginx
