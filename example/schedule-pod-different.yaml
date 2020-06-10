@@ -6,5 +6,5 @@ spec:
   containers:
   - image: nginx
     name: nginx
-  schedulerName: my-custom-scheduled
+  schedulerName: my-custom-scheduler
 
