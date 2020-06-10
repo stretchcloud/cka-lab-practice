@@ -8,8 +8,8 @@ spec:
   - command:
     - kube-scheduler
     - --address=127.0.0.1
-    - --kubeconfig=/etc/kubernetes/scsheduler.conf
+    - --kubeconfig=/etc/kubernetes/scheduler.conf
     - -- leader-elect=true
-    - --lock-object-name=my-custom-scsheduler
+    - --lock-object-name=my-custom-scheduler
     image: k8s.gcr.io/kube-scheduler-amd64:v1.11.3
     name: kube-scheduler
