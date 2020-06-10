@@ -7,4 +7,5 @@ spec:
   - image: nginx
     name: nginx
   schedulerName: my-custom-scheduler
+
   
